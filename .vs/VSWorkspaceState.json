@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp3.1",
+    "\\Converters",
+    "\\Models",
+    "\\obj",
+    "\\ViewModels"
+  ],
+  "SelectedNode": "\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}
